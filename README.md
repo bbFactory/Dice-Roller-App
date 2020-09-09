@@ -1,6 +1,6 @@
 # Dice-Roller-App (주사위 던지기 앱)
 
-유다시티 과정 1주차 완성 (링크 : https://www.udacity.com/)
+유다시티 과정 Lesson1 실습 (링크 : https://www.udacity.com/)
 
 ---
 
